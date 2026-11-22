@@ -1,0 +1,406 @@
+{
+  "telegram": "Ivan_D_D",
+  "hero_title": "Беру контент под задачу бизнеса: от идей и сценариев до публикации и аналитики.",
+  "hero_desc": "Создаю короткие видео, Stories и контент-стратегии. Изучаю аудиторию, тестирую идеи и смотрю на реальные показатели для повышения продаж.",
+  "projects_heading_first": "Подтверждаю слова",
+  "projects_heading_second": "результатом.",
+  "owner_title_first": "Не только",
+  "owner_title_em": "в статистике.",
+  "owner_description": "После роста интереса в соцсетях я спросил владельца, заметны ли изменения в посещаемости. Вот что он ответил.",
+  "portfolio_heading_first": "Лучше один раз",
+  "portfolio_heading_em": "увидеть,",
+  "portfolio_heading_last": "чем тысячу раз услышать.",
+  "portfolio_description": "Здесь собрал свои видео и карусель, а рядом — результаты публикаций.",
+  "bot_stats": [],
+  "portfolio_works": [
+    {
+      "id": "comment",
+      "type": "video",
+      "platform": "Instagram / Reels",
+      "title": "Ответ на комментарий",
+      "desc": "Ответ на вопрос аудитории — повод для нового ролика",
+      "metric": "208 тыс. просмотров",
+      "video": "sama-reel-comment.mp4",
+      "poster": "sama-reel-comment.jpg",
+      "proof": "reels"
+    },
+    {
+      "id": "201k",
+      "type": "video",
+      "platform": "Instagram / Reels",
+      "title": "Знакомство с раменной",
+      "desc": "Знакомство с форматом заведения",
+      "metric": "201 тыс. просмотров",
+      "video": "sama-reel-201k.mp4",
+      "poster": "sama-reel-201k.jpg",
+      "proof": "reels-201"
+    },
+    {
+      "id": "buldak",
+      "type": "carousel",
+      "platform": "TikTok / Карусель",
+      "title": "Самые редкие вкусы Buldak",
+      "desc": "Объясняющая карусель о вкусах лапши",
+      "metric": "233,9 тыс. просмотров · +190 подписчиков",
+      "poster": "sama-buldak-01.jpg",
+      "slides": [
+        "sama-buldak-01.jpg",
+        "sama-buldak-02.jpg",
+        "sama-buldak-03.jpg",
+        "sama-buldak-04.jpg",
+        "sama-buldak-05.jpg"
+      ],
+      "proof": "carousel"
+    },
+    {
+      "id": "humor",
+      "type": "video",
+      "platform": "Instagram / Reels",
+      "title": "Юмор и открытие раменной",
+      "desc": "Юмористический формат для внимания к заведению",
+      "metric": "150 824 просмотра Reels · 53 подписки",
+      "video": "sama-reel-humor.mp4",
+      "poster": "sama-reel-humor.jpg",
+      "proof": "reels-humor"
+    },
+    {
+      "id": "tiktok159",
+      "type": "video",
+      "platform": "TikTok",
+      "title": "Работа раменной изнутри",
+      "desc": "Видео о жизни и работе раменной",
+      "metric": "159 тыс. просмотров · +541 подписчик",
+      "video": "sama-tiktok-159k.mp4",
+      "poster": "sama-tiktok-159k.jpg",
+      "proof": "tt-159"
+    },
+    {
+      "id": "tiktok469",
+      "type": "video",
+      "platform": "TikTok",
+      "title": "Рамён за 260 рублей",
+      "desc": "Короткий ролик о предложении заведения",
+      "metric": "46,9 тыс. просмотров · +72 подписчика",
+      "video": "sama-tiktok-46900.mp4",
+      "poster": "sama-tiktok-46900.jpg",
+      "proof": "tt-469"
+    }
+  ],
+  "bot_media": {
+    "before": "vk-bot-before.jpg",
+    "after": "vk-bot-after.jpg",
+    "video": "vk-bot-demo.mp4"
+  },
+  "asset_aliases": {
+    "sama-storefront.jpg": "sama-storefront.jpg",
+    "sama-owner.jpg": "sama-owner.jpg",
+    "sama-ig-before.jpg": "sama-ig-before.jpg",
+    "sama-ig-after.jpg": "sama-ig-after.jpg",
+    "sama-tt-before.jpg": "sama-tt-before.jpg",
+    "sama-tt-after.jpg": "sama-tt-after.jpg",
+    "blesk-logo.jpg": "blesk-logo.jpg",
+    "blesk-reel-21658.mp4": "blesk-reel-21658.mp4",
+    "blesk-reel-6265.mp4": "blesk-reel-6265.mp4",
+    "vk-bot-before.jpg": "vk-bot-before.jpg",
+    "vk-bot-after.jpg": "vk-bot-after.jpg",
+    "vk-bot-demo.mp4": "vk-bot-demo.mp4",
+    "sama-reels-208.jpg": "sama-reels-208.jpg",
+    "sama-reels-201-proof.jpg": "sama-reels-201-proof.jpg",
+    "sama-tiktok-159-proof.jpg": "sama-tiktok-159-proof.jpg",
+    "sama-tiktok-carousel-stats.jpg": "sama-tiktok-carousel-stats.jpg",
+    "traffic-1.png": "traffic-1.png",
+    "traffic-2.png": "traffic-2.png",
+    "blesk-21k-proof.jpg": "blesk-21k-proof.jpg",
+    "blesk-6k-proof.jpg": "blesk-6k-proof.jpg",
+    "sama-instagram-411k-proof.jpg": "sama-instagram-411k-proof.jpg",
+    "blesk-audience-proof.jpg": "blesk-audience-proof.jpg"
+  },
+  "work_intro": "Я работаю с контентом от исследования аудитории и разработки стратегии до сценариев, публикаций и анализа результатов. В этих двух проектах задачи и подходы были совершенно разными.",
+  "sama_intro": "СамаРамён — корейская раменная самообслуживания в Самаре. Необычный для города формат требовал не только внимания, но и понятного объяснения: что здесь можно попробовать и как всё работает.",
+  "sama_approach": "Я изучал гостей по данным системы лояльности, искал смыслы для продвижения и писал сценарии — от юмора и ответов на комментарии до объяснений, как выбрать и приготовить Рамён. Тестировал форматы, организовывал публикации, координировал монтаж и анализировал отклик.",
+  "sama_survey_summary": "В опросе участвовал {total} посетитель. Instagram или TikTok указали {social} человек — {total_pct}% от всех ответов.",
+  "blesk_intro": "Я работаю с клининговой компанией из Бузулука. Здесь важно заинтересовать людей из города и близлежащих населённых пунктов, которым действительно может понадобиться уборка. В контенте я показываю реальные заказы, результаты до/после, истории клиентов и работу команды с участием владелицы. Пишу сценарии, организовываю публикации и анализирую реакцию аудитории.",
+  "blesk_audience": "В аналитике Instagram компании 95,8% аудитории — женщины; самая крупная возрастная группа — 35–44 года (46,1%).",
+  "bot_intro": "Я изучил существующий путь клиента в VK-боте и переработал меню: вместо трёх общих категорий появились отдельные виды уборки и понятные шаги к обращению. Цель — упростить выбор услуги и убрать лишние действия перед заявкой.",
+  "bot_video_intro": "Показываю, как изменился путь клиента: от меню к выбору конкретной услуги.",
+  "skills_intro": "Я изучаю аудиторию, разрабатываю стратегию, нахожу смыслы для контента и пишу сценарии. Организую публикации, анализирую результаты, координирую монтаж и при необходимости подключаю других специалистов.",
+  "contact_intro": "Расскажите, что продвигаете и какую задачу хотите решить. Обсудим, где мой опыт будет полезен вашему проекту.",
+  "survey_sources": [
+    {
+      "name": "Instagram",
+      "count": 232,
+      "role": "social"
+    },
+    {
+      "name": "TikTok",
+      "count": 227,
+      "role": "social"
+    },
+    {
+      "name": "ВКонтакте",
+      "count": 14,
+      "role": "other"
+    },
+    {
+      "name": "Проходили мимо / вывеска",
+      "count": 236,
+      "role": "other"
+    },
+    {
+      "name": "Уже были у нас",
+      "count": 310,
+      "role": "repeat"
+    },
+    {
+      "name": "Знакомые / родственники",
+      "count": 124,
+      "role": "other"
+    },
+    {
+      "name": "Яндекс Карты",
+      "count": 19,
+      "role": "other"
+    },
+    {
+      "name": "2ГИС",
+      "count": 1,
+      "role": "other"
+    },
+    {
+      "name": "Блогер",
+      "count": 3,
+      "role": "other"
+    },
+    {
+      "name": "Другое",
+      "count": 5,
+      "role": "other"
+    }
+  ],
+  "proofs": [
+    {
+      "id": "ig-before",
+      "label": "Instagram · до продвижения",
+      "image": "sama-ig-before.jpg",
+      "return_to": "#sama",
+      "uncropped_original": "source-archive/original-proofs/sama-ig-before.jpg"
+    },
+    {
+      "id": "ig-after",
+      "label": "Instagram · после",
+      "image": "sama-ig-after.jpg",
+      "return_to": "#sama",
+      "uncropped_original": "source-archive/original-proofs/sama-ig-after.jpg"
+    },
+    {
+      "id": "tt-before",
+      "label": "TikTok · до продвижения",
+      "image": "sama-tt-before.jpg",
+      "return_to": "#sama",
+      "uncropped_original": "source-archive/original-proofs/sama-tt-before.jpg"
+    },
+    {
+      "id": "tt-after",
+      "label": "TikTok · после",
+      "image": "sama-tt-after.jpg",
+      "return_to": "#sama",
+      "uncropped_original": "source-archive/original-proofs/sama-tt-after.jpg"
+    },
+    {
+      "id": "reels",
+      "label": "Instagram Reels · 208 276 просмотров",
+      "image": "sama-reels-208.jpg",
+      "return_to": "#portfolio",
+      "uncropped_original": "source-archive/original-proofs/sama-reels-208.jpg"
+    },
+    {
+      "id": "reels-201",
+      "label": "Instagram Reels · 201 889 просмотров",
+      "image": "sama-reels-201-proof.jpg",
+      "return_to": "#portfolio",
+      "uncropped_original": "source-archive/original-proofs/sama-reels-201-proof.jpg"
+    },
+    {
+      "id": "tt-159",
+      "label": "TikTok · 159 тыс. просмотров / +541 подписчик",
+      "image": "sama-tiktok-159-proof.jpg",
+      "return_to": "#portfolio",
+      "uncropped_original": "source-archive/original-proofs/sama-tiktok-159-proof.jpg"
+    },
+    {
+      "id": "carousel",
+      "label": "TikTok · Buldak · 233,9 тыс. просмотров и 190 подписчиков",
+      "image": "sama-tiktok-carousel-stats.jpg",
+      "return_to": "#portfolio",
+      "uncropped_original": "source-archive/original-proofs/sama-tiktok-carousel-stats.jpg"
+    },
+    {
+      "id": "traffic-1",
+      "label": "Опрос посетителей · первая часть",
+      "image": "traffic-1.png",
+      "return_to": "#proof-survey",
+      "uncropped_original": "source-archive/original-proofs/traffic-1.png"
+    },
+    {
+      "id": "traffic-2",
+      "label": "Опрос посетителей · вторая часть",
+      "image": "traffic-2.png",
+      "return_to": "#proof-survey",
+      "uncropped_original": "source-archive/original-proofs/traffic-2.png"
+    },
+    {
+      "id": "owner",
+      "label": "Сообщение владельца СамаРамён",
+      "image": "sama-owner.jpg",
+      "return_to": "#owner",
+      "uncropped_original": "source-archive/original-proofs/sama-owner.jpg"
+    },
+    {
+      "id": "ig-411",
+      "label": "Instagram · 411,5 тыс. просмотров за 30 дней",
+      "image": "sama-instagram-411k-proof.jpg",
+      "return_to": "#sama-metrics",
+      "uncropped_original": "source-archive/original-proofs/sama-instagram-411k-proof.jpg"
+    },
+    {
+      "id": "blesk-audience",
+      "label": "Блеск · пол и возраст аудитории Instagram",
+      "image": "blesk-audience-proof.jpg",
+      "return_to": "#blesk",
+      "uncropped_original": "source-archive/original-proofs/blesk-audience-proof.jpg"
+    },
+    {
+      "id": "blesk-21",
+      "label": "Reels Блеск · 21 658 просмотров",
+      "image": "blesk-21k-proof.jpg",
+      "return_to": "#blesk",
+      "uncropped_original": "source-archive/original-proofs/blesk-21k-proof.jpg"
+    },
+    {
+      "id": "blesk-6",
+      "label": "Reels Блеск · 6 265 просмотров",
+      "image": "blesk-6k-proof.jpg",
+      "return_to": "#blesk",
+      "uncropped_original": "source-archive/original-proofs/blesk-6k-proof.jpg"
+    },
+    {
+      "id": "bot-before",
+      "label": "VK-бот Блеск · до изменений",
+      "image": "vk-bot-before.jpg",
+      "return_to": "#automation",
+      "uncropped_original": "source-archive/original-proofs/vk-bot-before.jpg"
+    },
+    {
+      "id": "bot-after",
+      "label": "VK-бот Блеск · после изменений",
+      "image": "vk-bot-after.jpg",
+      "return_to": "#automation",
+      "uncropped_original": "source-archive/original-proofs/vk-bot-after.jpg"
+    },
+    {
+      "id": "reels-humor",
+      "label": "Reels · 150 824 просмотра и 53 подписки (сводка с кросс-публикацией)",
+      "image": "sama-reels-humor-proof.png",
+      "return_to": "#portfolio",
+      "uncropped_original": "source-archive/original-proofs/sama-reels-humor-proof.png"
+    },
+    {
+      "id": "tt-469",
+      "label": "TikTok · «Рамён за 260 рублей» · 46,9 тыс. просмотров, 72 новых подписчика",
+      "image": "sama-tiktok-469-proof.jpg",
+      "return_to": "#portfolio",
+      "uncropped_original": "source-archive/original-proofs/sama-tiktok-469-proof.jpg"
+    }
+  ],
+  "sama_metrics": [
+    {
+      "label": "INSTAGRAM / ПОДПИСЧИКИ",
+      "value": "71 → 2 465",
+      "period": "",
+      "links": [
+        {
+          "label": "До ↗",
+          "proof": "ig-before"
+        },
+        {
+          "label": "После ↗",
+          "proof": "ig-after"
+        }
+      ]
+    },
+    {
+      "label": "TIKTOK / ПОДПИСЧИКИ",
+      "value": "176 → 3 330",
+      "period": "",
+      "links": [
+        {
+          "label": "До ↗",
+          "proof": "tt-before"
+        },
+        {
+          "label": "После ↗",
+          "proof": "tt-after"
+        }
+      ]
+    },
+    {
+      "label": "ОДИН REELS / ПРОСМОТРЫ",
+      "value": "208 276",
+      "period": "",
+      "links": [
+        {
+          "label": "Открыть статистику ↗",
+          "proof": "reels"
+        }
+      ]
+    },
+    {
+      "label": "TIKTOK-КАРУСЕЛЬ / ПРОСМОТРЫ",
+      "value": "233,9 тыс.",
+      "period": "",
+      "links": [
+        {
+          "label": "Открыть статистику ↗",
+          "proof": "carousel"
+        }
+      ]
+    }
+  ],
+  "sama_period_metric": {
+    "label": "INSTAGRAM / 30 ДНЕЙ",
+    "value": "411,5 тыс.",
+    "description": "просмотров аккаунта",
+    "proof": "ig-411",
+    "proof_label": "Посмотреть статистику ↗"
+  },
+  "blesk_reels": [
+    {
+      "label": "REELS / БЛЕСК",
+      "views": "21 658",
+      "views_label": "просмотров",
+      "video": "blesk-reel-21658.mp4",
+      "poster": "blesk-reel-21658.jpg",
+      "alt": "Reels Блеск: история из практики клининга",
+      "facts": [
+        "105 отправок",
+        "13 подписок"
+      ],
+      "proof": "blesk-21",
+      "proof_label": "Открыть статистику"
+    },
+    {
+      "label": "REELS / БЛЕСК",
+      "views": "6 265",
+      "views_label": "просмотров",
+      "video": "blesk-reel-6265.mp4",
+      "poster": "blesk-reel-6265.jpg",
+      "alt": "Reels Блеск: разговорная история об уборке",
+      "facts": [
+        "4 982 зрителя",
+        "3 подписки"
+      ],
+      "proof": "blesk-6",
+      "proof_label": "Открыть статистику"
+    }
+  ]
+}

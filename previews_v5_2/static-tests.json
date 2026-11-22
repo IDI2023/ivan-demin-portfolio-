@@ -1,0 +1,192 @@
+[
+  {
+    "name": "Every generated media and original link resolves locally",
+    "passed": true,
+    "detail": "[]"
+  },
+  {
+    "name": "Eight MP4 present",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Six works and all have proof",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "All 6 work proof IDs exist",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "New TikTok mapped to correct proof",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "New humor Reels mapped to correct proof",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "High-quality blesk-reel-21658.mp4 preserved byte-for-byte",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "High-quality blesk-reel-6265.mp4 preserved byte-for-byte",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Untouched source for ig-before",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Untouched source for ig-after",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Untouched source for tt-before",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Untouched source for tt-after",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Untouched source for reels",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Untouched source for reels-201",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Untouched source for tt-159",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Untouched source for carousel",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Untouched source for traffic-1",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Untouched source for traffic-2",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Untouched source for owner",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Untouched source for ig-411",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Untouched source for blesk-audience",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Untouched source for blesk-21",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Untouched source for blesk-6",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Untouched source for bot-before",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Untouched source for bot-after",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Untouched source for reels-humor",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Untouched source for tt-469",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "MP4 H264 at 512x910 blesk-reel-21658.mp4",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Faststart MP4 blesk-reel-21658.mp4",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "MP4 H264 at 512x910 blesk-reel-6265.mp4",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Faststart MP4 blesk-reel-6265.mp4",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Pages CMS YAML parseable",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Github Pages workflow parseable",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "JSON metric edits compile in isolation",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Build does not alter authoritative JSON values",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "JS-free direct MP4 href in each card",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Buldak direct first-slide href",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Raw proofs deployed via Github workflow",
+    "passed": true,
+    "detail": ""
+  }
+]

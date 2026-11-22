@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Autonomous markup loads",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "6 works / 8 video files",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Proof links in all 6 works",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "No horizontal overflow 320px",
+    "passed": true,
+    "detail": "0"
+  },
+  {
+    "name": "No horizontal overflow 375px",
+    "passed": true,
+    "detail": "0"
+  },
+  {
+    "name": "No horizontal overflow 390px",
+    "passed": true,
+    "detail": "0"
+  },
+  {
+    "name": "No horizontal overflow 430px",
+    "passed": true,
+    "detail": "0"
+  },
+  {
+    "name": "No horizontal overflow 768px",
+    "passed": true,
+    "detail": "0"
+  },
+  {
+    "name": "No horizontal overflow 1024px",
+    "passed": true,
+    "detail": "0"
+  },
+  {
+    "name": "No horizontal overflow 1440px",
+    "passed": true,
+    "detail": "0"
+  },
+  {
+    "name": "Open local video #1",
+    "passed": true,
+    "detail": "assets/sama-reel-comment.mp4"
+  },
+  {
+    "name": "Direct MP4 fallback #1",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Close local video #1",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Open local video #2",
+    "passed": true,
+    "detail": "assets/sama-reel-201k.mp4"
+  },
+  {
+    "name": "Direct MP4 fallback #2",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Close local video #2",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Open local video #4",
+    "passed": true,
+    "detail": "assets/sama-reel-humor.mp4"
+  },
+  {
+    "name": "Direct MP4 fallback #4",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Close local video #4",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Open local video #5",
+    "passed": true,
+    "detail": "assets/sama-tiktok-159k.mp4"
+  },
+  {
+    "name": "Direct MP4 fallback #5",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Close local video #5",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Open local video #6",
+    "passed": true,
+    "detail": "assets/sama-tiktok-46900.mp4"
+  },
+  {
+    "name": "Direct MP4 fallback #6",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Close local video #6",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Buldak opens",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Buldak slide 2",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Buldak slide 3",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Buldak slide 4",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Buldak slide 5",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Buldak fallback image direct",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Proof matches card 1",
+    "passed": true,
+    "detail": "#proof-reels"
+  },
+  {
+    "name": "Proof matches card 2",
+    "passed": true,
+    "detail": "#proof-reels-201"
+  },
+  {
+    "name": "Proof matches card 3",
+    "passed": true,
+    "detail": "#proof-carousel"
+  },
+  {
+    "name": "Proof matches card 4",
+    "passed": true,
+    "detail": "#proof-reels-humor"
+  },
+  {
+    "name": "Proof matches card 5",
+    "passed": true,
+    "detail": "#proof-tt-159"
+  },
+  {
+    "name": "Proof matches card 6",
+    "passed": true,
+    "detail": "#proof-tt-469"
+  },
+  {
+    "name": "Open survey original 1",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Return from original 1 to table",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Open survey original 2",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Return from original 2 to table",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Survey returns focus to opener",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "JS errors absent",
+    "passed": true,
+    "detail": "[]"
+  },
+  {
+    "name": "VK bot modal opens",
+    "passed": true,
+    "detail": ""
+  }
+]

@@ -1,0 +1,130 @@
+# Optional Pages CMS editor for a zero-cost static site (connection must be enabled by repository owner).
+media:
+  input: assets
+  output: assets
+  rename: safe
+  extensions: [jpg, jpeg, png, webp, mp4, svg]
+content:
+  - name: main
+    label: 'Иван Демин — портфолио'
+    type: file
+    path: data/site.json
+    format: json
+    fields:
+      - { name: telegram, label: 'Telegram без @', type: string }
+      - { name: hero_title, label: 'Первый экран — основной заголовок', type: text }
+      - { name: hero_desc, label: 'Первый экран — описание', type: text }
+      - { name: projects_heading_first, label: 'Заголовок кейсов — первая строка', type: string }
+      - { name: projects_heading_second, label: 'Заголовок кейсов — выделенная строка', type: string }
+      - { name: owner_title_first, label: 'Подводка к переписке — начало', type: string }
+      - { name: owner_title_em, label: 'Подводка к переписке — выделение', type: string }
+      - { name: owner_description, label: 'Пояснение к переписке', type: text }
+      - { name: portfolio_heading_first, label: 'Заголовок работ — начало', type: string }
+      - { name: portfolio_heading_em, label: 'Заголовок работ — выделение', type: string }
+      - { name: portfolio_heading_last, label: 'Заголовок работ — конец', type: string }
+      - { name: portfolio_description, label: 'Подпись к портфолио', type: text }
+      - { name: work_intro, label: 'Вводный текст перед кейсами', type: text }
+      - { name: sama_intro, label: 'СамаРамён — контекст', type: text }
+      - { name: sama_approach, label: 'СамаРамён — мой подход', type: text }
+      - { name: sama_survey_summary, label: 'Подпись опроса — {total}, {social}, {total_pct} заменяются автоматически', type: text }
+      - { name: blesk_intro, label: 'Блеск — мой подход', type: text }
+      - { name: blesk_audience, label: 'Блеск — аудитория', type: text }
+      - { name: bot_intro, label: 'VK-бот — моя работа', type: text }
+      - { name: bot_video_intro, label: 'VK-бот — подпись к видео', type: text }
+      - { name: skills_intro, label: 'Компетенции — мой подход', type: text }
+      - { name: contact_intro, label: 'Контакты — текст', type: text }
+      - name: survey_sources
+        label: 'СамаРамён — источники опроса (в сумме 1 171)'
+        type: object
+        list:
+          collapsible: { collapsed: true, summary: '{name}' }
+        fields:
+          - { name: name, label: 'Источник', type: string }
+          - { name: count, label: 'Число ответов', type: number }
+          - { name: role, label: 'Группа расчёта: social / repeat / other', type: string }
+
+      - name: portfolio_works
+        label: 'Видео и карусель «СамаРамён»'
+        type: object
+        list:
+          collapsible: { collapsed: true, summary: '{title}' }
+        fields:
+          - { name: id, label: 'Короткий ID без пробелов', type: string }
+          - { name: type, label: 'Тип: video или carousel', type: string }
+          - { name: platform, label: 'Площадка', type: string }
+          - { name: title, label: 'Название работы', type: string }
+          - { name: desc, label: 'Короткое описание', type: text }
+          - { name: metric, label: 'Подтверждённый результат', type: string }
+          - { name: video, label: 'MP4-файл в assets (для video)', type: string }
+          - { name: poster, label: 'Обложка JPG в assets', type: string }
+          - { name: proof, label: 'ID скрина статистики, если есть', type: string }
+          - { name: slides, label: 'Слайды карусели: имена файлов', type: string, list: true }
+      - name: bot_stats
+        label: 'VK-бот — показатели (пока отсутствуют)'
+        type: object
+        list:
+          collapsible: { collapsed: true, summary: '{label}' }
+        fields:
+          - { name: value, label: 'Число/процент', type: string }
+          - { name: label, label: 'Метрика и период', type: string }
+
+      # V5.1: main metrics, proof screenshots and Blesk clips are now editable.
+      - name: sama_metrics
+        label: 'СамаРамён — четыре основные метрики'
+        type: object
+        list:
+          collapsible: { collapsed: true, summary: '{label}' }
+        fields:
+          - { name: label, label: 'Название показателя', type: string }
+          - { name: value, label: 'Значение (стрелка → допускается)', type: string }
+          - { name: period, label: 'Период (если есть)', type: string }
+          - name: links
+            label: 'Кнопки доказательств'
+            type: object
+            list:
+              collapsible: { collapsed: true, summary: '{label}' }
+            fields:
+              - { name: label, label: 'Название кнопки', type: string }
+              - { name: proof, label: 'ID доказательства из списка ниже', type: string }
+      - name: sama_period_metric
+        label: 'СамаРамён — 30-дневная метрика Instagram'
+        type: object
+        fields:
+          - { name: label, label: 'Заголовок', type: string }
+          - { name: value, label: 'Значение', type: string }
+          - { name: description, label: 'Пояснение', type: string }
+          - { name: proof, label: 'ID доказательства', type: string }
+          - { name: proof_label, label: 'Текст кнопки', type: string }
+      - name: proofs
+        label: 'Оригинальные скриншоты-доказательства'
+        type: object
+        list:
+          collapsible: { collapsed: true, summary: '{label}' }
+        fields:
+          - { name: id, label: 'ID (не менять без обновления ссылок)', type: string }
+          - { name: label, label: 'Название в окне', type: string }
+          - { name: image, label: 'Имя файла в assets', type: string }
+          - { name: uncropped_original, label: 'Исходник без обрезки (source-archive/original-proofs/...)', type: string, required: false }
+          - { name: return_to, label: 'Якорь возврата: #... (для таблицы #proof-survey)', type: string }
+      - name: blesk_reels
+        label: 'Блеск — два Reels и их статистика'
+        type: object
+        list:
+          collapsible: { collapsed: true, summary: '{views}' }
+        fields:
+          - { name: label, label: 'Подпись платформы', type: string }
+          - { name: views, label: 'Главное число просмотров', type: string }
+          - { name: views_label, label: 'Название метрики', type: string }
+          - { name: video, label: 'MP4 в assets', type: string }
+          - { name: poster, label: 'Обложка в assets', type: string }
+          - { name: alt, label: 'Доступное описание ролика', type: string }
+          - { name: facts, label: 'Дополнительные результаты', type: string, list: true }
+          - { name: proof, label: 'ID скриншота статистики', type: string }
+          - { name: proof_label, label: 'Название кнопки', type: string }
+      - name: bot_media
+        label: 'Блеск — видео и фото VK-бота'
+        type: object
+        fields:
+          - { name: before, label: 'До — файл в assets', type: string }
+          - { name: after, label: 'После — файл в assets', type: string }
+          - { name: video, label: 'Видео работы бота в assets', type: string }

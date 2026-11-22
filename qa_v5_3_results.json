@@ -1,0 +1,366 @@
+{
+  "passed": 72,
+  "failed": 0,
+  "checks": [
+    {
+      "check": "unchanged from V5.2: data/site.json",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "unchanged from V5.2: .pages.yml",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "unchanged from V5.2: site.js",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "preserve originals and media",
+      "passed": true,
+      "details": "65 files byte-identical"
+    },
+    {
+      "check": "template change only new fallback slot",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "no public full / uncropped links",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "no proof extra help text",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "six gallery cards",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "fallback outside card grid",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "proof id count",
+      "passed": true,
+      "details": "19"
+    },
+    {
+      "check": "originals link data kept",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "no unbound template placeholders",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "js syntax",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "temporary JSON edit builds",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "updated metric renders and original stays untouched",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "no horizontal overflow 320",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "buttons after stats 320",
+      "passed": true,
+      "details": "[11, 11, 11, 11, 11, 11]"
+    },
+    {
+      "check": "fallback not in cards 320",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "no horizontal overflow 375",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "buttons after stats 375",
+      "passed": true,
+      "details": "[11, 11, 11, 11, 11, 11]"
+    },
+    {
+      "check": "fallback not in cards 375",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "no horizontal overflow 390",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "buttons after stats 390",
+      "passed": true,
+      "details": "[11, 11, 11, 11, 11, 11]"
+    },
+    {
+      "check": "fallback not in cards 390",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "no horizontal overflow 430",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "buttons after stats 430",
+      "passed": true,
+      "details": "[11, 11, 11, 11, 11, 11]"
+    },
+    {
+      "check": "fallback not in cards 430",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "no horizontal overflow 768",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "buttons after stats 768",
+      "passed": true,
+      "details": "[18, 18, 18, 18, 18, 18]"
+    },
+    {
+      "check": "fallback not in cards 768",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "no horizontal overflow 1024",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "buttons after stats 1024",
+      "passed": true,
+      "details": "[18, 18, 18, 18, 18, 18]"
+    },
+    {
+      "check": "fallback not in cards 1024",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "no horizontal overflow 1440",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "buttons after stats 1440",
+      "passed": true,
+      "details": "[18, 18, 18, 18, 18, 18]"
+    },
+    {
+      "check": "fallback not in cards 1440",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "proof opens",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "proof header only close",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "proof body only image",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "proof closes on Escape",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "focus returns after proof close",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "survey opens",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "survey original 1 opens",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "original 1 returns to survey",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "original 1 restores trigger focus",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "survey original 2 opens",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "original 2 returns to survey",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "original 2 restores trigger focus",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "survey close returns original focus",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "five portfolio video links",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "video modal 1 opens with right src",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "video modal 1 closes and resets",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "video modal 2 opens with right src",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "video modal 2 closes and resets",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "video modal 3 opens with right src",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "video modal 3 closes and resets",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "video modal 4 opens with right src",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "video modal 4 closes and resets",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "video modal 5 opens with right src",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "video modal 5 closes and resets",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "carousel opens",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "carousel slide 1",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "carousel slide 2",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "carousel slide 3",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "carousel slide 4",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "carousel slide 5",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "carousel Escape closes",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "five fallback links outside gallery",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "no JS five fallback slide links",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "no JS details expands",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "no JS proof hash works",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "no JS closes proof",
+      "passed": true,
+      "details": ""
+    }
+  ]
+}
