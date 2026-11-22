@@ -196,3 +196,22 @@ body:has(.proof-modal:target){overflow:hidden}
 .gallery-slide-fallback summary{cursor:pointer;min-height:38px;display:flex;align-items:center;line-height:1.4}
 .gallery-slide-fallback>div{display:flex;flex-wrap:wrap;gap:3px 10px}
 .gallery-slide-fallback a{min-height:40px;display:inline-flex;align-items:center;border-bottom:1px solid #aaa;color:#342d27}
+
+.sama-audience-action {
+  margin-top: 20px;
+}
+
+.sama-audience-action a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  color: #dedbd3;
+  font-size: 13px;
+  font-weight: 600;
+  border-bottom: 1px solid #8b867d;
+  text-decoration: none;
+}
+
+.sama-audience-action a:hover {
+  color: #f19478;
+}
